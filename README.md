@@ -54,7 +54,7 @@ fullstackproject/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/anujsmit/collegefullstack
 ```
 
 Navigate into the project directory:
